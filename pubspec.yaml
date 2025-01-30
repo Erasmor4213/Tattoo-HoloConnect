@@ -1,0 +1,15 @@
+
+name: tattoo_holoconnect
+description: Aplicación de realidad aumentada para tatuajes personalizados.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^latest_version
+  firebase_auth: ^latest_version
+  cloud_firestore: ^latest_version
+  firebase_storage: ^latest_version
+  qr_flutter: ^latest_version
+  ar_flutter_plugin: ^latest_version
+  lottie: ^latest_version
+  share_plus: ^latest_version
