@@ -13,11 +13,6 @@ dependencies:
   ar_flutter_plugin: ^latest_version
   lottie: ^latest_version
   share_plus: ^latest_version
-git init
-git add .
-git commit -m "Código inicial de Tattoo HoloConnect"
-git branch -M main
-git remote add origin https://github.com/Erasmor4213/TattooHoloConnect.git
-git push -u origin main
+git 
 
 
